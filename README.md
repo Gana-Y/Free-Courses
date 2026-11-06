@@ -236,6 +236,16 @@ Contributions are warmly welcomed! If you discover a high-value, verified **100%
 
 ---
 
+## 🌟 Show Your Support — Star This Repo!
+
+If this curated vault helped you find free certifications, learn new technical skills, or discover MIT/Harvard courses:
+
+* ⭐ **Give this repository a star** — it directly supports barrier-free technical education and helps more learners find it!
+* 🍴 **Fork it** — use it as your personal study planner and curriculum checklist.
+* 📢 **Share it** — spread the word to your friends, college peers, or on LinkedIn & X (Twitter)!
+
+---
+
 ## 👨‍💻 Maintainer
 
 Maintained with ❤️ by **[Ganesh Yandigeri](https://github.com/Gana-Y)**
